@@ -1,0 +1,10 @@
+tech-c:
+  - technik@freifunk-aachen.de
+asn: 65130
+networks:
+  ipv4:
+    - 172.16.0.0/12
+  ipv6:
+    - 2001:0db8:0100:f101::/64
+domains:
+  - ffff
